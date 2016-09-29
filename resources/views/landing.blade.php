@@ -15,11 +15,6 @@
     <link href="/css/app.css" rel="stylesheet">
     <link href="css/getonatop.css" rel="stylesheet">
 
-    <!-- Custom Fonts -->
-    <!-- <link href="https://fonts.googleapis.com/css?family=DIN Next Cyrillic" rel="stylesheet"> -->
-    <link href="https://fonts.googleapis.com/css?family=OpenSans:100,200,300,400,500,600,700,800,900" rel="stylesheet">
-    <!-- <link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet"> -->
-
     <!-- Plugin CSS -->
     <link rel="stylesheet" href="css/font-awesome.css">
 

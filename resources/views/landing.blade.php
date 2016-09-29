@@ -40,13 +40,13 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a class="page-scroll" href="#download">Download</a>
+                        <a href="#"><span class="fa fa-facebook fa-2x"></span></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#features">Features</a>
+                        <a href="#"><span class="fa fa-twitter fa-2x"></span></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#contact">Contact</a>
+                        <a href="#"><span class="fa fa-youtube-play fa-2x"></span></a>
                     </li>
                 </ul>
             </div>
@@ -188,29 +188,55 @@
 
     <section id="features" class="features">
         <div class="container">
-            <div class="row center-block"></div>
-            <h1>Features Coming Soon</h1>
+            <div class="row text-center">
+                <span class="fa fa-star-o fa-5x"></span>
+            </div>
+            <div class="row text-center">
+                <h1>Features Coming Soon</h1>
+            </div>
         </div>
     </section>
-    <footer>
+    <section id="features" class="features bg-white-light">
         <div class="container">
-            <p>&copy; 2016 Start Bootstrap. All Rights Reserved.</p>
-            <ul class="list-inline">
-                <li>
-                    <a href="#">Privacy</a>
-                </li>
-                <li>
-                    <a href="#">Terms</a>
-                </li>
-                <li>
-                    <a href="#">FAQ</a>
-                </li>
-            </ul>
+            <div class="row text-center">
+                <h1>Ready to get started?</h1>
+                <h3>
+                    Download the Get Onatop app today 
+                </h3>
+                <button type="button" class="btn btn-default btn-lg no-padding">
+                    <img src="img/app-store-colored.png" class="img-responsive">    
+                </button>
+                <button type="button" class="btn btn-default btn-lg no-padding">
+                    <img src="img/play-store-colored.png" class="img-responsive">    
+                </button>
+            </div>
+        </div>
+    </section>
+    <section id="features" class="features">
+        <div class="container">
+            <div class="row text-center">
+                <span class="fa fa-comment-o fa-5x green-light"></span>
+            </div>
+            <div class="row text-center">
+                <h4>
+                    If you would like to know more about Getonatop and why we have put it together for you, if you are interested in helping us grow, or if you want to invest, then please get in touch: <a href="">info@getonatop.com</a>.   We would love to hear from you!
+                </h4>
+            </div>
+        </div>
+    </section>
+    <footer class="bg-green-light">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 navbar-brand color-white">
+                    <p>Copyright Get Onatop &copy; 2015 <a href="/policies">Privacy Policy</a> </p>
+                </div>
+            </div>
         </div>
     </footer>
 
     <!-- Theme JavaScript -->
     <script src="js/all.js"></script>
+    <script src="js/app.js"></script>
 
 </body>
 

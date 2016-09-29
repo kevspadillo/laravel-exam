@@ -63,7 +63,7 @@
 }
 @media (min-width: 768px) {
   .navbar-default {
-    background-color: transparent;
+    background-color: #84c44e;
     border-color: transparent;
   }
   .navbar-default .navbar-header .navbar-brand {
@@ -186,6 +186,7 @@ header .device-container .screen img {
 }
 section.features {
   margin: 30px 0px 50px 0px;
+  padding-bottom: 50px;
 }
 section.video {
   background-color: #284453;
@@ -216,6 +217,21 @@ section .video-responsive-16by9 {
 }
 section .video-responsive-4by3 {
   padding-bottom: 75%;
+}
+.bg-green-light {
+  background-color: #76bb3c;
+}
+.green-light {
+  color: #76bb3c;
+}
+.bg-white-light {
+  background-color: #fff;
+}
+.color-white {
+  color: #fff;
+}
+.policy-header {
+  padding: 50px 0px;
 }
 
 /*# sourceMappingURL=getonatop.css.map */
